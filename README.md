@@ -1,2 +1,2 @@
 # ngRazorPagesDemo
-Use Angular in ASP.NET Razor Pages
+Load Angular ClientApp from an ASP.NET Razor Page
